@@ -1,0 +1,10 @@
+curl
+ripgrep
+ffmpeg
+procps
+git
+openssh-client
+tini
+
+gcc [compile platform:dpkg]
+libffi-dev [compile platform:dpkg]
